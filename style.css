@@ -1,0 +1,82 @@
+body{
+	background-image: url(img.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+#d1{
+	margin-top: 10px;
+}
+
+.d2{
+	text-shadow: 15px 15px 6px grey;
+}
+
+.d3{
+	font-weight: bold;
+	color: green;
+	text-shadow: 9px 9px 6px grey;
+}
+.p1{
+	font-size: 15px;
+	font-weight: bold;
+
+}
+
+.navigation{
+	height: 60px;
+	text-align: left;
+	background: grey;
+	line-height: 50px;
+	word-spacing: 60px;
+	letter-spacing: 1px;
+
+}
+
+.navigation a{
+	color:white;
+	text-decoration:none;
+	font-family: forty;
+	margin-left: 15px;
+	font-size:15px;
+}
+.navigation a:hover{
+	text-decoration: none;
+	background-color: white;
+	height: 15px;
+}
+
+.nav1{
+	margin-left: 8.4%;
+	margin-right: 8.4%;
+}
+
+.t1{
+	margin-left: 16px;
+}
+
+.d6{
+	float: left;
+	margin-left: 8.4%;
+	margin-right: 8.4%;
+	width: 40%;
+}
+
+.d7{
+	float: right;
+	margin-left:50%;
+	margin-top: -18.4%; 
+	margin-right: 8%;
+}
+
+.l1{
+	background: grey;
+	height: 5px;
+	margin-top: 50%;
+}
+
+#l2{
+	margin-left: 8.4%;
+	margin-right: 8.4%;
+	background-color: grey;
+}
